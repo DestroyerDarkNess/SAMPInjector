@@ -1,8 +1,8 @@
 # SAMPInjector
 Injector For SAMP [San Andreas Multi-Player] | Plugin For [NetLoader](https://github.com/DestroyerDarkNess/NetLoader) .
 
-SAMP Injector is an Echo Plugin for NetLoader. Especially for SAMP.
-Basically load the DLLs that you want.
+SAMP Injector is a Made add-on for NetLoader. 
+Especially for SAMP. Basically load the DLLs you want.
 
 Cheat "Obstler Hack" Has Been Included As An Example.
 
